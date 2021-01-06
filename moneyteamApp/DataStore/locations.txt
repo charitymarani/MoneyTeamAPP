@@ -1,0 +1,8 @@
+[
+  {
+    "Id": 1,
+    "Name": "gitaru",
+    "Latitude": 0.1,
+    "Longitude": 0.0
+  }
+]

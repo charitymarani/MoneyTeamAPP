@@ -1,0 +1,86 @@
+[
+  {
+    "FirstName": "kay",
+    "LastName": "kay",
+    "LocationId": 1,
+    "GenderId": 2,
+    "RoleId": 2,
+    "PhoneNumber": "0718444146",
+    "DateOfBirth": "1880-08-18T00:00:00",
+    "GroupId": 3,
+    "EmailAddress": "kwanj@gmail.com",
+    "Id": 1
+  },
+  {
+    "FirstName": "charity",
+    "LastName": "charity",
+    "LocationId": 1,
+    "GenderId": 1,
+    "RoleId": 1,
+    "PhoneNumber": "0712345678",
+    "DateOfBirth": "1998-12-12T00:00:00",
+    "GroupId": 2,
+    "EmailAddress": "gh@gmail.com",
+    "Id": 2
+  },
+  {
+    "FirstName": "joy",
+    "LastName": "joy",
+    "LocationId": 1,
+    "GenderId": 1,
+    "RoleId": 1,
+    "PhoneNumber": "075432194590",
+    "DateOfBirth": "2000-12-12T00:00:00",
+    "GroupId": 3,
+    "EmailAddress": "rt@gmail.com",
+    "Id": 3
+  },
+  {
+    "FirstName": "vee",
+    "LastName": "vee",
+    "LocationId": 1,
+    "GenderId": 1,
+    "RoleId": 1,
+    "PhoneNumber": "0718444098",
+    "DateOfBirth": "2002-12-12T00:00:00",
+    "GroupId": 1,
+    "EmailAddress": "err@gmail.com",
+    "Id": 4
+  },
+  {
+    "FirstName": "Char",
+    "LastName": "Char",
+    "LocationId": 1,
+    "GenderId": 1,
+    "RoleId": 2,
+    "PhoneNumber": "0718444156",
+    "DateOfBirth": "2000-08-07T00:00:00",
+    "GroupId": 3,
+    "EmailAddress": "r@gmail.com",
+    "Id": 5
+  },
+  {
+    "FirstName": "Char",
+    "LastName": "Char",
+    "LocationId": 1,
+    "GenderId": 1,
+    "RoleId": 2,
+    "PhoneNumber": "0718444106",
+    "DateOfBirth": "2000-08-07T00:00:00",
+    "GroupId": 3,
+    "EmailAddress": "ra@gmail.com",
+    "Id": 6
+  },
+  {
+    "FirstName": "Char",
+    "LastName": "Char",
+    "LocationId": 1,
+    "GenderId": 1,
+    "RoleId": 2,
+    "PhoneNumber": "0718414150",
+    "DateOfBirth": "2000-08-07T00:00:00",
+    "GroupId": 3,
+    "EmailAddress": "rd@gmail.com",
+    "Id": 7
+  }
+]

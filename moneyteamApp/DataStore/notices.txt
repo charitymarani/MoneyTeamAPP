@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 1,
+    "Message": "payment received",
+    "ReceiverId": 1
+  },
+  {
+    "Id": 2,
+    "Message": "Hi team, we have a meeting tomorrow",
+    "ReceiverId": 1
+  },
+  {
+    "Id": 3,
+    "Message": "Hi team, we have a meeting tomorrow",
+    "ReceiverId": 2
+  },
+  {
+    "Id": 4,
+    "Message": "New meeting alert",
+    "ReceiverId": 1
+  },
+  {
+    "Id": 5,
+    "Message": "Pay your rent please",
+    "ReceiverId": 7
+  }
+]

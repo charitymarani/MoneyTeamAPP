@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "Name": "first group",
+    "ChamaId": 0
+  },
+  {
+    "Id": 2,
+    "Name": "new name",
+    "ChamaId": 0
+  },
+  {
+    "Id": 3,
+    "Name": "group1",
+    "ChamaId": 2
+  },
+  {
+    "Id": 4,
+    "Name": "new g",
+    "ChamaId": 1
+  }
+]
